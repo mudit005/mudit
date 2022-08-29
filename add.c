@@ -5,5 +5,5 @@ void main()
 	int b=10;
 	int c;
 	c=a+b;
-	printf("%d",c);
+	printf("%d print",c);
 }
